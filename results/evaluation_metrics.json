@@ -1,0 +1,18 @@
+{
+  "recall": 0.9042904290429042,
+  "total_frogs": 303,
+  "detected_frogs": 274,
+  "missed_frogs": 29,
+  "total_non_frogs": 120,
+  "radius": 6.313810348510742,
+  "mean_distance_frogs": 4.454936911170632,
+  "std_distance_frogs": 1.2062851976691675,
+  "min_distance_frogs": 2.640350818634033,
+  "max_distance_frogs": 9.192808151245117,
+  "precision": 0.845679012345679,
+  "f1_score": 0.8740031897926634,
+  "accuracy": 0.8132387706855791,
+  "detected_non_frogs_as_frogs": 50,
+  "mean_distance_non_frogs": 7.065175519386927,
+  "std_distance_non_frogs": 2.1561532256396747
+}
