@@ -145,7 +145,7 @@ Si utilizas este código en tu investigación, por favor cita:
 ```bibtex
 @article{frog_vae_2025,
   title={Efficient Frog Vocalization Detection using Variational Autoencoders},
-  author={[TU NOMBRE]},
+  author={Luis Veas-Castillo},
   journal={[JOURNAL]},
   year={2025}
 }
@@ -167,7 +167,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 👥 Autores
 
-- **[TU NOMBRE]** - *Trabajo inicial* - [GitHub](https://github.com/robleaustral)
+- **Luis Veas-Castillo** - *Trabajo inicial* - [GitHub](https://github.com/robleaustral)
 
 ## 🙏 Agradecimientos
 
@@ -177,8 +177,16 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 📧 Contacto
 
-Para preguntas o colaboraciones: [tu-email@example.com]
+Para preguntas o colaboraciones: [luis.veasc@inf.uach.cl]
 
 ---
 
 **Roble Austral Organization** - [GitHub](https://github.com/robleaustral)
+
+## 👤 Autor
+
+**Luis Veas-Castillo**
+- Instituto de Informática
+- Universidad Austral de Chile
+- Valdivia, Chile
+- 📧 luis.veasc@inf.uach.cl
